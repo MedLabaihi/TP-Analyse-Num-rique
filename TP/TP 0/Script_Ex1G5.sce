@@ -1,0 +1,1 @@
+E = diag(1:6)-diag(ones(1,5),-1)-diag(ones(1,5),1);
